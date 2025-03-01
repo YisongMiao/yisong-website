@@ -24,6 +24,8 @@ I ❤️ 🆑.
 I study how language models interpret meanings, relationships, and structures in linguistic elements like discourse and emojis. 
 My work involves developing new datasets, evaluation methods, and inference algorithms to advance understanding.
 
+See also my homepage [at group](https://wing.comp.nus.edu.sg/author/yisong-miao/). 
+
 ## Papers
 I only list my **🔝 3️⃣ 📜** here ([Complete list](publications) is also available):
 
