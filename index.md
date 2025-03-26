@@ -51,7 +51,8 @@ My favorite singer is [Khalil Fong](https://khalilfong.com/2017/#3). His 2011 al
 - *A History of Western Philosophy* by Bertrand Russell
 
 
-My [Google Calendar](#calendar) is here. Carpe Diem!<br> {#calendar}
+## Calendar {#calendar}
+My [Google Calendar](#calendar) is here. Carpe Diem!<br>
 
 <dev>
 
