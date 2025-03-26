@@ -46,12 +46,12 @@ My favorite singer is [Khalil Fong](https://khalilfong.com/2017/#3). His 2011 al
 
 ## Recent readings
 (by recency)
+- *Educated* by Tara Westover
 - *Logics in Conversation* by Nicholas Asher and Alex Lascarides
 - *A History of Western Philosophy* by Bertrand Russell
-- *Elon Musk* by Walter Isaacson
 
 
-My [Google Calendar](#calendar) is here. Carpe Diem!<br>
+My [Google Calendar](#calendar) is here. Carpe Diem!<br> {#calendar}
 
 <dev>
 
