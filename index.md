@@ -31,7 +31,7 @@ I only list my **🔝 3️⃣ 📜** here ([Complete list](publications) is also
 
 [📜1] A new paper about discourse semantics. <br>
 [📜2]  <u>Yisong Miao</u> , Hongfu Liu, Wenqiang Lei, Nancy F. Chen, Min-Yen Kan (2024)  <u><i>Discursive Socratic Questioning: Evaluating the Faithfulness of Language Models’ Understanding of Discourse Relations.</i></u> **ACL 2024**. 
-[[PDF](https://yisong.me/publications/acl24-DiSQ-CR.pdf)] [[Slides](https://yisong.me/publications/acl24-DiSQ-Slides.pdf)] [[Poster](https://yisong.me/publications/acl24-DiSQ-Poster.pdf)] [[The Dataset / Official Implementation](https://github.com/YisongMiao/DiSQ-Score)] ⭐️ [Area Chair Award (Discourse and Pragmatics)](https://2024.aclweb.org/program/best_papers/) ⭐️ <br> 
+[[PDF](https://yisong.me/publications/acl24-DiSQ-CR.pdf)] [[Slides](https://yisong.me/publications/acl24-DiSQ-Slides.pdf)] [[Poster](https://yisong.me/publications/acl24-DiSQ-Poster.pdf)] [[The Dataset / Official Implementation](https://github.com/YisongMiao/DiSQ-Score)] ⭐️[Area Chair Award (Discourse and Pragmatics)](https://2024.aclweb.org/program/best_papers/)⭐️ <br> 
 [📜3] Zi Yun Yang, Ziqing Zhang, <u>Yisong Miao</u> (2024). <u><i>The ELCo Dataset: Bridging Emoji and Lexical Composition.</i></u>\* **LREC-COLING 2024**. [[PDF](https://yisong.me/publications/ELCo@LREC-COLING24.pdf)] [[Slides](https://yisong.me/publications/ELCo@LREC-COLING24-Oral.pdf)] [[Poster](https://yisong.me/publications/ELCo-Poster.pdf)] [[The Dataset / Official Implementation](https://github.com/WING-NUS/ELCo)] <br>
 
 \* 📜1: Ongoing research. <br>
