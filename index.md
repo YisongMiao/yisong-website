@@ -31,7 +31,7 @@ I only list my **🔝 3️⃣ 📜** here ([Complete list](publications) is also
 
 [📜1] A new paper about discourse semantics. <br>
 [📜2]  <u>Yisong Miao</u> , Hongfu Liu, Wenqiang Lei, Nancy F. Chen, Min-Yen Kan (2024)  <u><i>Discursive Socratic Questioning: Evaluating the Faithfulness of Language Models’ Understanding of Discourse Relations.</i></u> **ACL 2024**. 
-[[PDF](https://yisong.me/publications/acl24-DiSQ-CR.pdf)] [[Slides](https://yisong.me/publications/acl24-DiSQ-Slides.pdf)] [[Poster](https://yisong.me/publications/acl24-DiSQ-Poster.pdf)] [[The Dataset / Official Implementation](https://github.com/YisongMiao/DiSQ-Score)] ⭐️ Area Chair Award ⭐️ <br> 
+[[PDF](https://yisong.me/publications/acl24-DiSQ-CR.pdf)] [[Slides](https://yisong.me/publications/acl24-DiSQ-Slides.pdf)] [[Poster](https://yisong.me/publications/acl24-DiSQ-Poster.pdf)] [[The Dataset / Official Implementation](https://github.com/YisongMiao/DiSQ-Score)] ⭐️ [Area Chair Award (Discourse and Pragmatics)](https://2024.aclweb.org/program/best_papers/) ⭐️ <br> 
 [📜3] Zi Yun Yang, Ziqing Zhang, <u>Yisong Miao</u> (2024). <u><i>The ELCo Dataset: Bridging Emoji and Lexical Composition.</i></u>\* **LREC-COLING 2024**. [[PDF](https://yisong.me/publications/ELCo@LREC-COLING24.pdf)] [[Slides](https://yisong.me/publications/ELCo@LREC-COLING24-Oral.pdf)] [[Poster](https://yisong.me/publications/ELCo-Poster.pdf)] [[The Dataset / Official Implementation](https://github.com/WING-NUS/ELCo)] <br>
 
 \* 📜1: Ongoing research. <br>
@@ -45,11 +45,17 @@ My favorite singer is [Khalil Fong](https://khalilfong.com/2017/#3). His 2011 al
 <!-- **March 1, 2025:** Thank you, Kahlil. 🏝️🏝️🏝️ -->
 <br>My favorite composer is [Frédéric Chopin](https://youtu.be/UcOjKXIR8Iw?si=a60Lmo8h_NIYPAxS). I especially enjoy his [Piano Concerto No. 1](https://youtu.be/gV_x_QY1P5c?si=W4ledRy-fA_662Hu) and his [Nocturne No. 8 In D Flat, Op. 27 No. 2](https://youtu.be/vDaeVGAzgqo?si=ChjU8mvFVEFik3Xw). <br>My favorite driver is [Charles Leclerc](https://youtu.be/h-ce3gPMsGc?si=JC0MY-DFGm3AKzXw). He won in [Austin '24](https://youtu.be/kLCytMTycxI?si=8YLPqrirZJtg8Bf2), [Monza '24](https://www.youtube.com/watch?v=sTmpbEYUba0&pp=ygURZjEgaXRhbHkgbW9uemEgMjQ%3D), [Monte Carlo '24](https://www.youtube.com/watch?v=aeCI0ObFY8M&pp=ygUMZjEgbW9uYWNvIDI0), [Red Bull Ring '22](https://www.youtube.com/watch?v=G_8mOQeSa2U&pp=ygUPZjEgYXVzdHJpYSAyMDIy), [Albert Park '22](https://www.youtube.com/watch?v=dt8ANZIZ8Co&pp=ygURZjEgYXVzdHJhbGlhIDIwMjI%3D), [Bahrain '22](https://www.youtube.com/watch?v=wIYPuzWCCSw&pp=ygUPZjEgYmFocmFpbiAyMDIy), [Monza '19](https://www.youtube.com/watch?v=h-ce3gPMsGc&t=26s&pp=ygUNZjEgaXRhbHkgMjAxOQ%3D%3D), and [Spa '19](https://www.youtube.com/watch?v=dnnh8unDP4Y&t=182s&pp=ygUPZjEgYmVsZ2l1bSAyMDIy). 
 
-## Recent readings
-(by recency)
+## Readings
+Recenct readings:
+- *Leonardo da Vinci* by Walter Isaacson
 - *Educated* by Tara Westover
 - *Logics in Conversation* by Nicholas Asher and Alex Lascarides
 - *A History of Western Philosophy* by Bertrand Russell
+
+All time favorites:
+- *Three Body* by Cixin Liu
+- *Harry Potter and the Prisoner of Azkaban* J.K. Rowling
+- *Three Hundred Song Lyrics* available at [Wiki](https://zh.wikisource.org/zh/宋詞三百首)
 
 
 ## Calendar {#calendar}
