@@ -54,7 +54,7 @@ Recenct readings:
 
 All time favorites:
 - *The Three-Body Problem* by Cixin Liu
-- *Harry Potter and the Prisoner of Azkaban* J.K. Rowling
+- *Harry Potter and the Prisoner of Azkaban* by J.K. Rowling
 - *Three Hundred Song Lyrics* available at [Wiki](https://zh.wikisource.org/zh/宋詞三百首)
 
 
