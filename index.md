@@ -47,15 +47,15 @@ My favorite singer is [Khalil Fong](https://khalilfong.com/2017/#3). His 2011 al
 
 ## Readings
 Recenct readings:
-- *Leonardo da Vinci* by Walter Isaacson
-- *Educated* by Tara Westover
-- *Logics in Conversation* by Nicholas Asher and Alex Lascarides
-- *A History of Western Philosophy* by Bertrand Russell
+- *[Leonardo da Vinci](https://www.goodreads.com/book/show/34684622-leonardo-da-vinci)* by Walter Isaacson
+- *[Educated](https://www.goodreads.com/book/show/35133922-educated)* by Tara Westover
+- *[Logics in Conversation](https://www.goodreads.com/book/show/3278042-logics-of-conversation)* by Nicholas Asher and Alex Lascarides
+- *[A History of Western Philosophy](https://www.goodreads.com/book/show/243685.A_History_of_Western_Philosophy)* by Bertrand Russell
 
 All time favorites:
-- *The Three-Body Problem* by Cixin Liu
-- *Harry Potter and the Prisoner of Azkaban* by J.K. Rowling
-- *Three Hundred Song Lyrics* available at [Wiki](https://zh.wikisource.org/zh/宋詞三百首)
+- *[The Three-Body Problem](https://www.goodreads.com/book/show/23168817-the-dark-forest)* by Cixin Liu
+- *[Harry Potter and the Prisoner of Azkaban](https://www.goodreads.com/book/show/5.Harry_Potter_and_the_Prisoner_of_Azkaban)* by J.K. Rowling
+- *[Three Hundred Song Lyrics](https://en.wikipedia.org/wiki/Ci_(poetry))* available at [Wiki](https://zh.wikisource.org/zh/宋詞三百首)
 
 
 ## Calendar {#calendar}
