@@ -53,7 +53,7 @@ Recenct readings:
 - *A History of Western Philosophy* by Bertrand Russell
 
 All time favorites:
-- *Three Body* by Cixin Liu
+- *The Three-Body Problem* by Cixin Liu
 - *Harry Potter and the Prisoner of Azkaban* J.K. Rowling
 - *Three Hundred Song Lyrics* available at [Wiki](https://zh.wikisource.org/zh/宋詞三百首)
 
