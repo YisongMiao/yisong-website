@@ -46,7 +46,7 @@ My favorite singer is [Khalil Fong](https://khalilfong.com/2017/#3). His 2011 al
 <br>My favorite composer is [Frédéric Chopin](https://youtu.be/UcOjKXIR8Iw?si=a60Lmo8h_NIYPAxS). I especially enjoy his [Piano Concerto No. 1](https://youtu.be/gV_x_QY1P5c?si=W4ledRy-fA_662Hu) and his [Nocturne No. 8 In D Flat, Op. 27 No. 2](https://youtu.be/vDaeVGAzgqo?si=ChjU8mvFVEFik3Xw). <br>My favorite driver is [Charles Leclerc](https://youtu.be/h-ce3gPMsGc?si=JC0MY-DFGm3AKzXw). He won in [Austin '24](https://youtu.be/kLCytMTycxI?si=8YLPqrirZJtg8Bf2), [Monza '24](https://www.youtube.com/watch?v=sTmpbEYUba0&pp=ygURZjEgaXRhbHkgbW9uemEgMjQ%3D), [Monte Carlo '24](https://www.youtube.com/watch?v=aeCI0ObFY8M&pp=ygUMZjEgbW9uYWNvIDI0), [Red Bull Ring '22](https://www.youtube.com/watch?v=G_8mOQeSa2U&pp=ygUPZjEgYXVzdHJpYSAyMDIy), [Albert Park '22](https://www.youtube.com/watch?v=dt8ANZIZ8Co&pp=ygURZjEgYXVzdHJhbGlhIDIwMjI%3D), [Bahrain '22](https://www.youtube.com/watch?v=wIYPuzWCCSw&pp=ygUPZjEgYmFocmFpbiAyMDIy), [Monza '19](https://www.youtube.com/watch?v=h-ce3gPMsGc&t=26s&pp=ygUNZjEgaXRhbHkgMjAxOQ%3D%3D), and [Spa '19](https://www.youtube.com/watch?v=dnnh8unDP4Y&t=182s&pp=ygUPZjEgYmVsZ2l1bSAyMDIy). 
 
 ## Readings
-Recenct readings:
+Recent readings:
 - *[Leonardo da Vinci](https://www.goodreads.com/book/show/34684622-leonardo-da-vinci)* by Walter Isaacson, 2017.
 - *[Educated](https://www.goodreads.com/book/show/35133922-educated)* by Tara Westover, 2018.
 - *[Logics in Conversation](https://www.goodreads.com/book/show/3278042-logics-of-conversation)* by Nicholas Asher and Alex Lascarides, 2003. 
