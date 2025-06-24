@@ -16,6 +16,8 @@ I am a fifth year PhD student at [WING](https://wing.comp.nus.edu.sg/)-[SoC](htt
 **Physical Yisong:** AS6 Building, meet me in the lab :P <br>**Digital Yisong:** [[Google Scholar](
 https://scholar.google.com/citations?hl=en&user=a-oIKBoAAAAJ&view_op=list_works&sortby=pubdate)]  [[LinkedIn](https://www.linkedin.com/in/yisongmiao/)]  [[GitHub](https://github.com/YisongMiao/)] [[Twitter](https://twitter.com/yisongmiao)]  [[Skype](live:miaoyisong)] <br>**Email Yisong:** [yisong domain-of comp.nus.edu.sg]; [miaoyisong domain-of gmail.com].<br>
 
+🍁 Summer 2025: I am visiting [Prof. Vered Shwartz](https://www.cs.ubc.ca/~vshwartz/) at [UBC NLP](https://nlp.cs.ubc.ca) on an exciting project about pragmatics. 
+
 # Research {#papers}
 ## Overview
 
