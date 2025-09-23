@@ -18,5 +18,5 @@ I can host **1–2 new students** at our research group, who will be jointly men
 
 ---
 
-📩 If you are interested in any of these topics, please email both myself and Prof. Min.
+📩 If you are interested in any of these topics, please email both myself and Prof. Min before applying in the SoC's bidding system, thanks! 
 
