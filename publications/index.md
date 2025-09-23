@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "Paper Archive"
 ---
 
 # Paper archive

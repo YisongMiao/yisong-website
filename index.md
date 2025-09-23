@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "Yisong Miao's Academic Homepage"
 ---
 
 ## Yisong Miao's Academic Homepage
