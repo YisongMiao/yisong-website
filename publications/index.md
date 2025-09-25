@@ -8,6 +8,11 @@ title: "Paper Archive"
 Here is an archive for my (co-)authored conference papers, workshop papers and technical reports. 
 
 
+## 2025 {#paper-2025}
+
+[1] <u>Yisong Miao</u> , Min-Yen Kan (2025) <u><i>Discursive Circuits: How Do Language Models Understand Discourse Relations?</i></u> EMNLP 2025.
+
+
 ## 2024 {#paper-2024}
 
 [1]  <u>Yisong Miao</u> , Hongfu Liu, Wenqiang Lei, Nancy F. Chen, Min-Yen Kan (2024)  <u><i>Discursive Socratic Questioning: Evaluating the Faithfulness of Language Models’ Understanding of Discourse Relations.</i></u> ACL 2024. [[PDF](https://yisong.me/publications/acl24-DiSQ-CR.pdf)] [[Slides](https://yisong.me/publications/acl24-DiSQ-Slides.pdf)] [[Poster](https://yisong.me/publications/acl24-DiSQ-Poster.pdf)] [[The Dataset / Official Implementation](https://github.com/YisongMiao/DiSQ-Score)] <br>
