@@ -39,7 +39,7 @@ PDF and codebase to come.
 
 [📜2] <i><u>Discursive Socratic Questioning: Evaluating the Faithfulness of Language Models’ Understanding of Discourse Relations.</u></i><br>
 Yisong Miao, Hongfu Liu, Wenqiang Lei, Nancy F. Chen, Min-Yen Kan <br>
-**ACL 2024 (talk)** ⭐️[<**span style="color:#8b0000;">Senior Area Chair Award**</span>** (Discourse and Pragmatics Track)**](https://2024.aclweb.org/program/best_papers/#sac-awards)⭐️ <br>
+**ACL 2024 (talk)** ⭐️[**<span style="color:#8b0000;">Senior Area Chair Award</span>** **(Discourse and Pragmatics Track)**](https://2024.aclweb.org/program/best_papers/#sac-awards)⭐️ <br>
 [[PDF](https://yisong.me/publications/acl24-DiSQ-CR.pdf)] [[Slides](https://yisong.me/publications/acl24-DiSQ-Slides.pdf)] [[Poster](https://yisong.me/publications/acl24-DiSQ-Poster.pdf)] [[Data and Code](https://github.com/YisongMiao/DiSQ-Score)] <br>
 
 [📜3] <i><u>The ELCo Dataset: Bridging Emoji and Lexical Composition.</u></i> <br>
