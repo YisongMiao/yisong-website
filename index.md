@@ -33,17 +33,17 @@ See also [my homepage at our group](https://wing.comp.nus.edu.sg/author/yisong-m
 I only list my **🔝 3️⃣ 📜** here ([Complete list](publications) is also available):
 
 [📜1] <i><u>Discursive Circuits: How Do Language Models Understand Discourse Relations?</u></i> <br>
-Yisong Miao, Min-Yen Kan <br>
+<u>Yisong Miao</u>, Min-Yen Kan <br>
 **EMNLP 2025 (talk)** <br>
 PDF and codebase to come. 
 
 [📜2] <i><u>Discursive Socratic Questioning: Evaluating the Faithfulness of Language Models’ Understanding of Discourse Relations.</u></i><br>
-Yisong Miao, Hongfu Liu, Wenqiang Lei, Nancy F. Chen, Min-Yen Kan <br>
+<u>Yisong Miao</u>, Hongfu Liu, Wenqiang Lei, Nancy F. Chen, Min-Yen Kan <br>
 **ACL 2024 (talk)** ⭐️<a href="https://2024.aclweb.org/program/best_papers/#sac-awards"><span style="color:#8b0000; font-weight:bold;">Senior Area Chair Award (Discourse and Pragmatics Track)</span></a>⭐️ <br>
 [[PDF](https://yisong.me/publications/acl24-DiSQ-CR.pdf)] [[Slides](https://yisong.me/publications/acl24-DiSQ-Slides.pdf)] [[Poster](https://yisong.me/publications/acl24-DiSQ-Poster.pdf)] [[Data and Code](https://github.com/YisongMiao/DiSQ-Score)] <br>
 
 [📜3] <i><u>The ELCo Dataset: Bridging Emoji and Lexical Composition.</u></i> <br>
-Zi Yun Yang, Ziqing Zhang, Yisong Miao <br>
+Zi Yun Yang, Ziqing Zhang, <u>Yisong Miao</u> <br>
 **LREC-COLING 2024 (poster)** <br>
 [[PDF](https://yisong.me/publications/ELCo@LREC-COLING24.pdf)] [[Slides](https://yisong.me/publications/ELCo@LREC-COLING24-Oral.pdf)] [[Poster](https://yisong.me/publications/ELCo-Poster.pdf)] [[Data and Code](https://github.com/WING-NUS/ELCo)] <br>
 
