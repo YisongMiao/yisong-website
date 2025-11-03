@@ -35,7 +35,7 @@ I only list my **🔝 3️⃣ 📜** here ([Complete list](publications) is also
 [📜1] <i><u>Discursive Circuits: How Do Language Models Understand Discourse Relations?</u></i> <br>
 <u>Yisong Miao</u>, Min-Yen Kan <br>
 **EMNLP 2025 (talk)** <br>
-[[PDF](https://yisong.me/publications/emnlp25-DC.pdf)] [[Slides](https://yisong.me/publications/emnlp25-DC-Slides.pdf)] [[Poster](https://yisong.me/publications/emnlp25-DC-Poster.pdf)] [[Data and Code](https://github.com/YisongMiao/Discursive-Circuits)] <br>
+[[PDF](https://yisong.me/publications/emnlp25-DC-CR.pdf)] [[Slides](https://yisong.me/publications/emnlp25-DC-Slides.pdf)] [[Poster](https://yisong.me/publications/emnlp25-DC-Poster.pdf)] [[Data and Code](https://github.com/YisongMiao/Discursive-Circuits)] <br>
 
 [📜2] <i><u>Discursive Socratic Questioning: Evaluating the Faithfulness of Language Models’ Understanding of Discourse Relations.</u></i><br>
 <u>Yisong Miao</u>, Hongfu Liu, Wenqiang Lei, Nancy F. Chen, Min-Yen Kan <br>
