@@ -92,7 +92,7 @@ My [Google Calendar](#calendar) is here. Carpe Diem!<br>
 
 
 
-<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=316&t=tt&d=AtjDTUFB20IgL7u3rO8LSY3PT1mblgL2oNH-bHHv0SE&co=1cb2f2'></script>
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=200&t=tt&d=AtjDTUFB20IgL7u3rO8LSY3PT1mblgL2oNH-bHHv0SE&co=1cb2f2'></script>
 
 
 
