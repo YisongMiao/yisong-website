@@ -8,6 +8,13 @@ title: "Paper Archive"
 Here is an archive for my (co-)authored conference papers, workshop papers and technical reports. 
 
 
+## 2026 {#paper-2026}
+
+[1] <u>Yisong Miao</u>, Jian Zhu, Vered Shwartz (2026) <u><i>LLMs Infer Cultural Context but Fail to Apply It When Responding.</i></u> arXiv 2026 (Preprint). [[PDF](https://arxiv.org/abs/2606.17688)] [[Data and Code](https://github.com/YisongMiao/CAPRI)] <br>
+
+[2] Nura Tamton, <u>Yisong Miao</u>, Min-Yen Kan (2026) <u><i>REPA: Reproducibility Evaluation via an Autonomous Pipeline Architecture.</i></u> ICML 2026 Workshop AI4Science. [[OpenReview](https://openreview.net/forum?id=lfOyOMFZ4d)] <br>
+
+
 ## 2025 {#paper-2025}
 
 [1] <u>Yisong Miao</u> , Min-Yen Kan (2025) <u><i>Discursive Circuits: How Do Language Models Understand Discourse Relations?</i></u> EMNLP 2025 (Talk). [[PDF](https://yisong.me/publications/emnlp25-DC-CR.pdf)] [[Slides](https://yisong.me/publications/emnlp25-DC-Slides.pdf)] [[Poster](https://yisong.me/publications/emnlp25-DC-Poster.pdf)] [[Data and Code](https://github.com/YisongMiao/Discursive-Circuits)] <br>
