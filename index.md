@@ -49,7 +49,7 @@ Zi Yun Yang, Ziqing Zhang, <u>Yisong Miao</u> <br>
 
 ## Preprints
 
-[🐾1] <i><u>LLMs Infer Cultural Context but Fail to Apply It When Responding</u></i> <br>
+[🐾1] <i><u>LLMs Infer Cultural Context but Fail to Apply It When Responding.</u></i> <br>
 <u>Yisong Miao</u>, Jian Zhu, Vered Shwartz <br>
 **arXiv 2026** <br>
 [[PDF](https://arxiv.org/abs/2606.17688)] [[Data and Code](https://github.com/YisongMiao/CAPRI)] <br>
