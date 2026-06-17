@@ -64,6 +64,7 @@ My favorite singer is [Khalil Fong](https://khalilfong.com/2017/#3). His 2011 al
 
 ## Readings
 Recent readings:
+- *[Lost in Automatic Translation](https://lostinautomatictranslation.com/)* by Vered Shwartz, 2025.
 - *[Leonardo da Vinci](https://www.goodreads.com/book/show/34684622-leonardo-da-vinci)* by Walter Isaacson, 2017.
 - *[Educated](https://www.goodreads.com/book/show/35133922-educated)* by Tara Westover, 2018.
 - *[Logics in Conversation](https://www.goodreads.com/book/show/3278042-logics-of-conversation)* by Nicholas Asher and Alex Lascarides, 2003. 
