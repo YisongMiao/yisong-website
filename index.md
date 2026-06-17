@@ -29,6 +29,13 @@ My work involves developing new datasets, evaluation methods, and inference algo
 
 See also [my homepage at our group](https://wing.comp.nus.edu.sg/author/yisong-miao/). 
 
+## Preprints
+
+[🐾1] <i><u>LLMs Infer Cultural Context but Fail to Apply It When Responding.</u></i> <br>
+<u>Yisong Miao</u>, Jian Zhu, Vered Shwartz <br>
+**arXiv 2026** <br>
+[[PDF](https://arxiv.org/abs/2606.17688)] [[Data and Code](https://github.com/YisongMiao/CAPRI)] <br>
+
 ## Papers
 I only list my **🔝 3️⃣ 📜** here ([Complete list](publications) is also available):
 
@@ -46,13 +53,6 @@ I only list my **🔝 3️⃣ 📜** here ([Complete list](publications) is also
 Zi Yun Yang, Ziqing Zhang, <u>Yisong Miao</u> <br>
 **LREC-COLING 2024 (poster)** <br>
 [[PDF](https://yisong.me/publications/ELCo@LREC-COLING24.pdf)] [[Slides](https://yisong.me/publications/ELCo@LREC-COLING24-Oral.pdf)] [[Poster](https://yisong.me/publications/ELCo-Poster.pdf)] [[Data and Code](https://github.com/WING-NUS/ELCo)] <br>
-
-## Preprints
-
-[🐾1] <i><u>LLMs Infer Cultural Context but Fail to Apply It When Responding.</u></i> <br>
-<u>Yisong Miao</u>, Jian Zhu, Vered Shwartz <br>
-**arXiv 2026** <br>
-[[PDF](https://arxiv.org/abs/2606.17688)] [[Data and Code](https://github.com/YisongMiao/CAPRI)] <br>
 
 
 # More information {#mi}
