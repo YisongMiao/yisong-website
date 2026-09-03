@@ -33,7 +33,7 @@ See also [my homepage at our group](https://wing.comp.nus.edu.sg/author/yisong-m
 
 [🐾1] <i><u>LLMs Infer Cultural Context but Fail to Apply It When Responding.</u></i> <br>
 <u>Yisong Miao</u>, Jian Zhu, Vered Shwartz <br>
-**arXiv 2026** <br>
+**EMNLP 2026 (to appear)** <br>
 [[PDF](https://arxiv.org/abs/2606.17688)] [[Data and Code](https://github.com/YisongMiao/CAPRI)] <br>
 
 ## Papers
