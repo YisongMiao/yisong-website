@@ -17,7 +17,7 @@ I am a fifth year PhD student at [WING](https://wing.comp.nus.edu.sg/)-[SoC](htt
 **Physical Yisong:** AS6 Building, meet me in the lab :P <br>**Digital Yisong:** [[Google Scholar](
 https://scholar.google.com/citations?hl=en&user=a-oIKBoAAAAJ&view_op=list_works&sortby=pubdate)]  [[LinkedIn](https://www.linkedin.com/in/yisongmiao/)]  [[GitHub](https://github.com/YisongMiao/)] [[Twitter](https://twitter.com/yisongmiao)]  [[Skype](live:miaoyisong)] <br>**Email Yisong:** [yisong domain-of comp.nus.edu.sg]; [miaoyisong domain-of gmail.com].<br>
 
-🍁🍃🌴 Summer 2025: I worked with [Prof. Vered Shwartz](https://www.cs.ubc.ca/~vshwartz/) and [Prof. Jian Zhu](https://lingjzhu.github.io) at [UBC NLP](https://nlp.cs.ubc.ca) as a [Vector Institute](https://vectorinstitute.ai) research intern on an exciting project about pragmatics and cultural grounding. 
+🍁🍃🌴 Summer 2025: I worked with [Prof. Vered Shwartz](https://www.cs.ubc.ca/~vshwartz/) and [Prof. Jian Zhu](https://lingjzhu.github.io) at [UBC NLP](https://nlp.cs.ubc.ca) as a [Vector Institute](https://vectorinstitute.ai) research intern on an exciting project about pragmatic speakers and language grounding. 
 
 # Research {#papers}
 ## Overview
@@ -67,7 +67,7 @@ Recent readings:
 - *[Lost in Automatic Translation](https://lostinautomatictranslation.com/)* by Vered Shwartz, 2025.
 - *[Leonardo da Vinci](https://www.goodreads.com/book/show/34684622-leonardo-da-vinci)* by Walter Isaacson, 2017.
 - *[Educated](https://www.goodreads.com/book/show/35133922-educated)* by Tara Westover, 2018.
-- *[Logics in Conversation](https://www.goodreads.com/book/show/3278042-logics-of-conversation)* by Nicholas Asher and Alex Lascarides, 2003. 
+- *[Logics of Conversation](https://www.goodreads.com/book/show/3278042-logics-of-conversation)* by Nicholas Asher and Alex Lascarides, 2003. 
 - *[A History of Western Philosophy](https://www.goodreads.com/book/show/243685.A_History_of_Western_Philosophy)* by Bertrand Russell, 1945.
 
 All time favorites:
