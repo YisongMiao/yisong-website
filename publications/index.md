@@ -10,21 +10,22 @@ Here is an archive for my (co-)authored conference papers, workshop papers and t
 
 ## 2026 {#paper-2026}
 
-[1] <u>Yisong Miao</u>, Jian Zhu, Vered Shwartz (2026) <u><i>LLMs Infer Cultural Context but Fail to Apply It When Responding.</i></u> arXiv 2026 (Preprint). [[PDF](https://arxiv.org/abs/2606.17688)] [[Data and Code](https://github.com/YisongMiao/CAPRI)] <br>
+[1] <u>Yisong Miao</u>, Jian Zhu, Vered Shwartz (2026) <u><i>LLMs Infer Cultural Context but Fail to Apply It When Responding.</i></u> Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026), Budapest, Hungary (To appear). [[PDF](https://arxiv.org/abs/2606.17688)] [[Data and Code](https://github.com/YisongMiao/CAPRI)] <br>
 
 [2] Nura Tamton, <u>Yisong Miao</u>, Min-Yen Kan (2026) <u><i>REPA: Reproducibility Evaluation via an Autonomous Pipeline Architecture.</i></u> ICML 2026 Workshop AI4Science. [[OpenReview](https://openreview.net/forum?id=lfOyOMFZ4d)] <br>
 
 
 ## 2025 {#paper-2025}
 
-[1] <u>Yisong Miao</u> , Min-Yen Kan (2025) <u><i>Discursive Circuits: How Do Language Models Understand Discourse Relations?</i></u> EMNLP 2025 (Talk). [[PDF](https://yisong.me/publications/emnlp25-DC-CR.pdf)] [[Slides](https://yisong.me/publications/emnlp25-DC-Slides.pdf)] [[Poster](https://yisong.me/publications/emnlp25-DC-Poster.pdf)] [[Data and Code](https://github.com/YisongMiao/Discursive-Circuits)] <br>
+[1] <u>Yisong Miao</u> , Min-Yen Kan (2025) <u><i>Discursive Circuits: How Do Language Models Understand Discourse Relations?</i></u> Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025), Suzhou, China (Talk). [[PDF](https://yisong.me/publications/emnlp25-DC-CR.pdf)] [[Slides](https://yisong.me/publications/emnlp25-DC-Slides.pdf)] [[Poster](https://yisong.me/publications/emnlp25-DC-Poster.pdf)] [[Data and Code](https://github.com/YisongMiao/Discursive-Circuits)] <br>
 
 
 ## 2024 {#paper-2024}
 
-[1]  <u>Yisong Miao</u> , Hongfu Liu, Wenqiang Lei, Nancy F. Chen, Min-Yen Kan (2024)  <u><i>Discursive Socratic Questioning: Evaluating the Faithfulness of Language Models’ Understanding of Discourse Relations.</i></u> ACL 2024 (Talk). [[PDF](https://yisong.me/publications/acl24-DiSQ-CR.pdf)] [[Slides](https://yisong.me/publications/acl24-DiSQ-Slides.pdf)] [[Poster](https://yisong.me/publications/acl24-DiSQ-Poster.pdf)] [[The Dataset / Official Implementation](https://github.com/YisongMiao/DiSQ-Score)] <br>
+[1]  <u>Yisong Miao</u> , Hongfu Liu, Wenqiang Lei, Nancy F. Chen, Min-Yen Kan (2024)  <u><i>Discursive Socratic Questioning: Evaluating the Faithfulness of Language Models’ Understanding of Discourse Relations.</i></u> Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024), Bangkok, Thailand (Talk). [[PDF](https://yisong.me/publications/acl24-DiSQ-CR.pdf)] [[Slides](https://yisong.me/publications/acl24-DiSQ-Slides.pdf)] [[Poster](https://yisong.me/publications/acl24-DiSQ-Poster.pdf)] [[The Dataset / Official Implementation](https://github.com/YisongMiao/DiSQ-Score)] <br>
 
-[2] Zi Yun Yang, Ziqing Zhang, <u>Yisong Miao</u> (2024). <u><i>ELCo Dataset: Bridging Emoji and Lexical Composition.</i></u>\* LREC-COLING 2024 (Poster). [[PDF](https://yisong.me/publications/ELCo@LREC-COLING24.pdf)] [[Slides](https://yisong.me/publications/ELCo@LREC-COLING24-Oral.pdf)] [[Poster](https://yisong.me/publications/ELCo-Poster.pdf)] [[The Dataset / Official Implementation](https://github.com/WING-NUS/ELCo)] <br>
+[2] Zi Yun Yang^, Ziqing Zhang^, <u>Yisong Miao</u> (2024). <u><i>ELCo Dataset: Bridging Emoji and Lexical Composition.</i></u> Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), Torino, Italia (Poster). [[PDF](https://yisong.me/publications/ELCo@LREC-COLING24.pdf)] [[Slides](https://yisong.me/publications/ELCo@LREC-COLING24-Oral.pdf)] [[Poster](https://yisong.me/publications/ELCo-Poster.pdf)] [[The Dataset / Official Implementation](https://github.com/WING-NUS/ELCo)] <br>
+<small>^ denotes my mentees. I took the senior author position since my PhD advisor served as the conference chair. We submitted the article without him. We are grateful for his tireless training.</small> <br>
 
 ## 2022 {#paper-2022}
 
