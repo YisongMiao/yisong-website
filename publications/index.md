@@ -25,7 +25,7 @@ Here is an archive for my (co-)authored conference papers, workshop papers and t
 [1]  <u>Yisong Miao</u> , Hongfu Liu, Wenqiang Lei, Nancy F. Chen, Min-Yen Kan (2024)  <u><i>Discursive Socratic Questioning: Evaluating the Faithfulness of Language Models’ Understanding of Discourse Relations.</i></u> Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024), Bangkok, Thailand (Talk). [[PDF](https://yisong.me/publications/acl24-DiSQ-CR.pdf)] [[Slides](https://yisong.me/publications/acl24-DiSQ-Slides.pdf)] [[Poster](https://yisong.me/publications/acl24-DiSQ-Poster.pdf)] [[The Dataset / Official Implementation](https://github.com/YisongMiao/DiSQ-Score)] <br>
 
 [2] Zi Yun Yang^, Ziqing Zhang^, <u>Yisong Miao</u> (2024). <u><i>ELCo Dataset: Bridging Emoji and Lexical Composition.</i></u> Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), Torino, Italia (Poster). [[PDF](https://yisong.me/publications/ELCo@LREC-COLING24.pdf)] [[Slides](https://yisong.me/publications/ELCo@LREC-COLING24-Oral.pdf)] [[Poster](https://yisong.me/publications/ELCo-Poster.pdf)] [[The Dataset / Official Implementation](https://github.com/WING-NUS/ELCo)] <br>
-<small>^ denotes my mentees. I took the senior author position since my PhD advisor served as the conference chair. We submitted the article without him. We are grateful for his tireless training.</small> <br>
+<small>^ denotes my undergraduate student mentees. I took the senior author position since my PhD advisor served as the conference chair. We submitted the article without him. We are grateful for his tireless training.</small> <br>
 
 ## 2022 {#paper-2022}
 

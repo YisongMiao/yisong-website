@@ -53,7 +53,7 @@ I only list my **🔝 3️⃣ 📜** here ([Complete list](publications) is also
 Zi Yun Yang^, Ziqing Zhang^, <u>Yisong Miao</u> <br>
 **LREC-COLING 2024 (poster)** <br>
 [[PDF](https://yisong.me/publications/ELCo@LREC-COLING24.pdf)] [[Slides](https://yisong.me/publications/ELCo@LREC-COLING24-Oral.pdf)] [[Poster](https://yisong.me/publications/ELCo-Poster.pdf)] [[Data and Code](https://github.com/WING-NUS/ELCo)] <br>
-<small>^ denotes my mentees. I took the senior author position since my PhD advisor served as the conference chair. We submitted the article without him. We are grateful for his tireless training.</small> <br>
+<small>^ denotes my undergraduate student mentees. I took the senior author position since my PhD advisor served as the conference chair. We submitted the article without him. We are grateful for his tireless training.</small> <br>
 
 
 # More information {#mi}
