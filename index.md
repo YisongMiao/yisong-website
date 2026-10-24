@@ -34,7 +34,7 @@ See also [my homepage at our group](https://wing.comp.nus.edu.sg/author/yisong-m
 [🐾1] <i><u>LLMs Infer Cultural Context but Fail to Apply It When Responding.</u></i> <br>
 <u>Yisong Miao</u>, Jian Zhu, Vered Shwartz <br>
 **EMNLP 2026 (to appear)** <br>
-[[PDF](https://arxiv.org/abs/2606.17688)] [[Slides](https://yisong.me/publications/emnlp26-CAPRI-Slides.pdf)] [[Poster](https://yisong.me/publications/emnlp26-CAPRI-Poster.pdf)] [[Data and Code](https://github.com/YisongMiao/CAPRI)] <br>
+[[PDF](https://yisong.me/publications/emnlp26-CAPRI-CR.pdf)] [[Slides](https://yisong.me/publications/emnlp26-CAPRI-Slides.pdf)] [[Poster](https://yisong.me/publications/emnlp26-CAPRI-Poster.pdf)] [[Data and Code](https://github.com/YisongMiao/CAPRI)] <br>
 
 ## Papers
 I only list my **🔝 3️⃣ 📜** here ([Complete list](publications) is also available):

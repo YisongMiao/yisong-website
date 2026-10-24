@@ -10,7 +10,7 @@ Here is an archive for my (co-)authored conference papers, workshop papers and t
 
 ## 2026 {#paper-2026}
 
-[1] <u>Yisong Miao</u>, Jian Zhu, Vered Shwartz (2026) <u><i>LLMs Infer Cultural Context but Fail to Apply It When Responding.</i></u> Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026), Budapest, Hungary (To appear). [[PDF](https://arxiv.org/abs/2606.17688)] [[Data and Code](https://github.com/YisongMiao/CAPRI)] <br>
+[1] <u>Yisong Miao</u>, Jian Zhu, Vered Shwartz (2026) <u><i>LLMs Infer Cultural Context but Fail to Apply It When Responding.</i></u> Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026), Budapest, Hungary (To appear). [[PDF](https://yisong.me/publications/emnlp26-CAPRI-CR.pdf)] [[Data and Code](https://github.com/YisongMiao/CAPRI)] <br>
 
 [2] Nura Tamton, <u>Yisong Miao</u>, Min-Yen Kan (2026) <u><i>REPA: Reproducibility Evaluation via an Autonomous Pipeline Architecture.</i></u> ICML 2026 Workshop AI4Science. [[OpenReview](https://openreview.net/forum?id=lfOyOMFZ4d)] <br>
 
